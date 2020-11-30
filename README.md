@@ -1,11 +1,7 @@
 # PicQh
-**一款基于 GitHub API 的免费、稳定且高效的图床管理神器。**
+**将GitHub/Gitee/Coding当作自己的图床，上传至代码仓库中,PicQh是基于 GitHub API 的免费、稳定且高效的图床管理神器。**
 
-**PicQh，基于 GitHub API 搭建的图床管理神器，免费、稳定、极速、高效。**
-
-你只需注册 GitHub 账号，创建一个仓库来作为你的图床，当然，我相信你早就有 GitHub 账号了。
-
-## Features 功能特性
+## 功能特性
 
 - [x] **拖拽图片**进行上传。
 
@@ -27,7 +23,7 @@
 
 - [ ] 批量上传。
 
-- [ ] 接入 Gitee & coding 仓库。
+- [ ] 亦接入 Gitee & coding 仓库。
 
 - [ ] 语言国际化。
 
