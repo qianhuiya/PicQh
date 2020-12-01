@@ -7,6 +7,8 @@
       只需一个 GitHub 账号，免下载安装，打开网站即可使用，轻松解决图床难题。
       <br>
       建议将此网站添加至收藏夹，方便下次使用 😊
+      <br/>
+      使用:前往GitHub新建token令牌
     </div>
 
     <div class="help-info-item">

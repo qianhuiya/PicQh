@@ -47,7 +47,7 @@ export default {
 
   data() {
     return {
-      logoImage: "https://cdn.jsdelivr.net/gh/qianhuiya/picgo@main/avaer/2.4riw20pxxqi0.jpg",
+      logoImage: "https://cdn.jsdelivr.net/gh/qianhuiya/pics@main/kavaer/1.3o4ilcabcrq0.png",
       defaultUsername: '未登录',
     }
   },

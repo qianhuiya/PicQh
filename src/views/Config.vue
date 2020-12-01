@@ -5,7 +5,7 @@
              class="config-form"
     >
       <el-form-item label="Token">
-        <el-input v-model="userConfigInfo.token"></el-input>
+        <el-input v-model="userConfigInfo.token" placeholder="请前往GitHub获取或新建token令牌"></el-input>
       </el-form-item>
 
       <el-form-item class="operation">
